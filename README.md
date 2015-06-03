@@ -1,2 +1,2 @@
 # api
-API RESTful for inciato.
+API RESTful for iniciato.
